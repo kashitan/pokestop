@@ -10,7 +10,7 @@ import re
 import sys
 import requests
 
-DOMAIN = 'https://www.ingress.com'
+DOMAIN = 'https://intel.ingress.com'
 COOKIES = {
     'SACSID': '<SACSID cookie>',
     'csrftoken': '<csrftoken cookie>'
